@@ -1,0 +1,15 @@
+Component   : Pidrest_2
+PCB Library : PcbLib2.PcbLib
+Date        : 19.04.2016
+Time        : 5:12:04
+
+
+
+Dimension : 5.817 x 14.249 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+ Multi Layer                 3          0        0       0        0
+--------------------------------------------------------------------
+ Total                       3          4        0       0        0
